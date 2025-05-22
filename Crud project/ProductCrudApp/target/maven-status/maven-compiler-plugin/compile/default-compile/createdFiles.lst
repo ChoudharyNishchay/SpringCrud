@@ -1,0 +1,3 @@
+ProductCrudApp\Model\Product.class
+ProductCrudApp\Dao\ProductDao.class
+ProductCrudApp\MainController.class
